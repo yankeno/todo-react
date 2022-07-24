@@ -1,3 +1,6 @@
+### 以下のサイトをベースにToDoの削除機能を追加しました
+https://www.cresco.co.jp/blog/entry/18971/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

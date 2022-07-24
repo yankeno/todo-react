@@ -1,6 +1,0 @@
-{
-    "files.insertFinalNewline": true,
-    "[javascriptreact]": {
-        "editor.tabSize": 2
-    }
-}
